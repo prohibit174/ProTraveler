@@ -21,7 +21,7 @@ public class AccompanyController{
 	
 	@RequestMapping(value = "/main", method = RequestMethod.GET)
 	public String main(){
-		return "/accompany/main";
+		return "/accompany/Accomp_main";
 	}
 	       
 	  /*    command.equals("main.accompany")
