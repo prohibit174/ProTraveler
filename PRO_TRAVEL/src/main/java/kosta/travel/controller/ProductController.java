@@ -13,6 +13,6 @@ public class ProductController {
 		@RequestMapping(value = "/register", method = RequestMethod.GET)
 		public String register() {
 			return "/product/register";
-	}
+		}
 	
 }
