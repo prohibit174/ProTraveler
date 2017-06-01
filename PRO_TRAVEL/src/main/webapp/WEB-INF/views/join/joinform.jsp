@@ -50,47 +50,9 @@
         <br/>
     </div>
 
- <!--    <div class="box-full" id="connexion" >
-        <form id="form_connexion" class="uniForm checkout" enctype="application/x-www-form-urlencoded"
-              action="/en/profile/login" method="post">
-            <div class="top"></div>
-                <div class="form">
-                    <div class="left">
-                        <table cellpadding="0" cellspacing="0" class="tab">
-                            <tr>
-                                <td class="label"><label for="u_id">ID</label>
-                                </td>
-                                <td class="value">
-<input type="text" name="u_id" id="u_id" value="" /> &nbsp; <span class="mandatory">*</span>
-                           
-                                </td>
-                            </tr>
-                        </table>
-                    </div>
-                    <div class="right">
-                        <table cellpadding="0" cellspacing="0" class="tab">
-                            <tr>
-                                <td class="label"><label for="pwd">Password</label>
-                                </td>
-                                <td class="value">
-<input type="password" name="password" id="password" value="" /> &nbsp; <span
-                                        class="mandatory">*</span></td>
-                            </tr>
-                        </table>
-                        
-
-                    </div>
-                    <div class="clear"></div>
-               
-                    <div class="clear"></div>
-                </div>
-            <div class="bottom"></div>
-        </form>
-        <br/>
-    </div> -->
 
 <form id="form_checkout" class="uniForm checkout" enctype="application/x-www-form-urlencoded"
-      action="/en/checkout/index/process" method="post">
+      action="JoinForm" method="post">
 <div class="box-full" id="creationaccount">
 <div class="top"></div>
 <div class="form">
