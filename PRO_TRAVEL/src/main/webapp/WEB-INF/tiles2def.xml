@@ -58,7 +58,7 @@
    </definition>
    
    <!-- product -->
-   <definition name="product" extends="product_layout">
+   <definition name="product_register" extends="main_layout">
    	<put-attribute name="body" value="/WEB-INF/views/product/register.jsp"/>
    </definition>
    
