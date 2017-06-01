@@ -25,7 +25,7 @@
                             <form id="results-form" action="javascript:redirectFromGames()" class="results-form">
                                 <div class="row">
                                     <select id="sel-games" class="ajax-select" title="Games">
-                                        <option class="default">아이디를 입력하세요</option>
+                                        <option class="default">아이디를 입력하세요.</option>
 		
                                     </select>
                                     <input type="text" value="아이디를 입력하세요" id="login-box">
