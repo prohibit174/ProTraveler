@@ -14,5 +14,10 @@ public class ProductController {
 		public String register() {
 			return "/product/register";
 		}
+		
+		@RequestMapping(value = "/list", method = RequestMethod.GET)
+		public String list() {
+			return "/product/product_list";
+		}
 	
 }
